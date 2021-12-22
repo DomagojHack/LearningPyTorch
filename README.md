@@ -13,3 +13,5 @@ notebooks:
 - 01_quickstart.ipynb
 - 02_tensors.ipynb
 - 03_datasets_&_dataloaders.ipynb
+- 04_transforms.ipynb
+- 05_NN_building.ipynb
